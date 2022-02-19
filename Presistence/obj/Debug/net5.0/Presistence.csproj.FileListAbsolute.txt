@@ -1,0 +1,15 @@
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\Presistence.deps.json
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\Presistence.dll
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\ref\Presistence.dll
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\Presistence.pdb
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\Domain.dll
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.csproj.AssemblyReference.cache
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.AssemblyInfoInputs.cache
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.AssemblyInfo.cs
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.csproj.CoreCompileInputs.cache
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.csproj.CopyComplete
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.dll
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\ref\Presistence.dll
+C:\Users\hgusi\OneDrive\Skrivbord\C#\Reactivitties\UdamyProject\Presistence\obj\Debug\net5.0\Presistence.pdb

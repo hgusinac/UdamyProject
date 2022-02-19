@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,6 +44,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -59,6 +69,185 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\hgusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hgusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\Presistence.csproj": {
+                "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\hgusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hgusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\Presistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\Presistence.csproj",
+        "projectName": "Presistence",
+        "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\Presistence.csproj",
+        "packagesPath": "C:\\Users\\hgusi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Presistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hgusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hgusi\\OneDrive\\Skrivbord\\C#\\Reactivitties\\UdamyProject\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
